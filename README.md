@@ -1,5 +1,3 @@
-# wetwerewww
-house
 -- Model
 return {[1]={decal={transparency=0;face=Enum.NormalId.Front;texture="http://www.roblox.com/asset/?id=641228042";};
 surface={Top="Studs";Front="Smooth";Bottom="Inlet";Right="Smooth";Left="Smooth";Back="Smooth";};
